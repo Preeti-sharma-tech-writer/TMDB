@@ -196,17 +196,17 @@ print(response.text)
 |  `results[].adult`  | boolean  |   Whether the movie is classified as adult content  |
 |  `results[].genre_ids`  |  array |    The ids of the genre of the movie     |
 |  `results[].id`  | integer  |   The id of the movie     |
-|  `results[].title`  |  string |  The title of the movie       |
+| `results[].title` | string | The title of the movie. The title is changed to the language set in query param   |
 |  `results[].original_title`  | string  |    The original title of the movie      |
-|  `results[].original_language`  | string  |    The original language of the movie     |
+| `results[].original_language` | string |    The original language of the movie. The format used is iso_639_1      |
 |  `results[].backdrop_path` | string | The partial path of the movie's backdrop image. Retrieve the full image URL by calling the /configuration API  |
-|  `results[].overview`  | string  |    The description of the movie     |
+| `results[].overview` | string |     The description of the movie. The overview is changed to the language set in query param    |
 |  `results[].popularity`  | number  |    TMDB's popularity score for the movie     |
 |  `results[].poster_path`  | string  |    The partial path of the movie's poster image     |
-|  `results[].release_date`  | string  |    The official release date of the movie     |
-|  `results[].video`  | boolean  |    Whether the movie has attached video    |
-|  `results[].vote_average`  | number  |    Average voting of the movie    |
-|  `results[].vote_count` |  integer | The total number of votes given to the movie|
+| `results[].release_date`  | string  |    The primary release date of the movie  |
+| `results[].video` | boolean |    Whether the official video(s) of the movie are present     |
+| `results[].vote_average` | number |   Average voting of the movie      |
+| `results[].vote_count` | integer |   The total number of votes given to the movie     |
 
 ## Errors
 | Status | Meaning | Likely cause |
