@@ -3,7 +3,6 @@
 ## Get started
 - [Overview](01-overview.md)
 - [Quickstart](02-quickstart.md)
-- [Authentication](03-authentication.md)
 
 ## Guides
 - [Search and discover movies](guides/search-and-discover.md)
