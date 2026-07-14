@@ -212,4 +212,4 @@ print(response.text)
 | Status | Meaning | Likely cause |
 |--------|---------|--------------|
 | 401 | Unauthorized | API key either invalid or missing for authorization |
-| 404 | Not Found | The requested path might be incorrect|
+| 404 | Not Found | The requested path has missing or incorrect entry |
