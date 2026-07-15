@@ -18,7 +18,6 @@ Requires a Bearer token in the `Authorization` header. See [Authentication](../0
 |  region  |  query  |  string  |  no |  Filters the results that are released in the specific country. Format used is ISO-3166-1. Default value is US. |
 
 ## Example request
-## Example request
 
 <Tabs groupId="api-language">
 <TabItem value="curl" label="cURL">
