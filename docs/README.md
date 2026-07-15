@@ -13,6 +13,6 @@
 - [Configuration](./reference/configuration.md)
 
 ## Reference material
-- [Working with images](../reference-material/working-with-images.md)
-- [Errors](../reference-material/errors.md)
-- [Glossary](../reference-material/glossary.md)
+- [Working with images](./reference-material/working-with-images.md)
+- [Errors](./reference-material/errors.md)
+- [Glossary](./reference-material/glossary.md)
