@@ -1,0 +1,23 @@
+{
+  "id": "reference/search-movies",
+  "title": "Search Movies",
+  "description": "The keyword can be a movie title or original title.",
+  "source": "@site/docs/reference/search-movies.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/search-movies",
+  "permalink": "/TMDB/docs/reference/search-movies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Popular Movies",
+    "permalink": "/TMDB/docs/reference/popular-movies"
+  },
+  "next": {
+    "title": "Errors",
+    "permalink": "/TMDB/docs/reference-material/error"
+  }
+}

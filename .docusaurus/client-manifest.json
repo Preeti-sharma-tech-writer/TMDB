@@ -1,0 +1,455 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "62": [
+      "62"
+    ],
+    "693": [
+      "693"
+    ],
+    "841": [
+      "106",
+      "14",
+      "182",
+      "496",
+      "841"
+    ],
+    "17896441": [
+      "14",
+      "841",
+      "106"
+    ],
+    "46986386": [
+      "366"
+    ],
+    "main": [
+      "14",
+      "783",
+      "889"
+    ],
+    "runtime~main": [
+      "14",
+      "889",
+      "783"
+    ],
+    "149b5b0e": [
+      "390"
+    ],
+    "14eb3368": [
+      "14",
+      "234"
+    ],
+    "1db64337": [
+      "502"
+    ],
+    "1f391b9e": [
+      "14",
+      "841",
+      "182"
+    ],
+    "23374ca6": [
+      "203"
+    ],
+    "306919cb": [
+      "961"
+    ],
+    "36994c47": [
+      "191"
+    ],
+    "4bf16988": [
+      "14",
+      "702"
+    ],
+    "4c678320": [
+      "209"
+    ],
+    "5e95c892": [
+      "668"
+    ],
+    "7198235a": [
+      "296"
+    ],
+    "814f3328": [
+      "833"
+    ],
+    "8b852395": [
+      "908"
+    ],
+    "8b992f43": [
+      "89"
+    ],
+    "8c00be16": [
+      "455"
+    ],
+    "92de5525": [
+      "519"
+    ],
+    "a6aa9e1f": [
+      "14",
+      "841",
+      "496"
+    ],
+    "a7456010": [
+      "56"
+    ],
+    "a7bd4aaa": [
+      "575"
+    ],
+    "a94703ab": [
+      "14",
+      "785"
+    ],
+    "aba21aa0": [
+      "747"
+    ],
+    "c4f5d8e4": [
+      "823"
+    ],
+    "ca068593": [
+      "433"
+    ],
+    "d245014b": [
+      "932"
+    ],
+    "d589d3a7": [
+      "557"
+    ],
+    "d7dcdce1": [
+      "900"
+    ],
+    "e8458ed4": [
+      "541"
+    ],
+    "styles": [
+      "106",
+      "182",
+      "234",
+      "496",
+      "702",
+      "783",
+      "785",
+      "841",
+      "889",
+      "14"
+    ]
+  },
+  "assets": {
+    "14": {
+      "css": [
+        {
+          "file": "assets/css/styles.eb4f28ba.css",
+          "hash": "d4b3168d69fb0d2b",
+          "publicPath": "/TMDB/assets/css/styles.eb4f28ba.css"
+        }
+      ]
+    },
+    "56": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.5c37e763.js",
+          "hash": "368dddb3f4d20515",
+          "publicPath": "/TMDB/assets/js/a7456010.5c37e763.js"
+        }
+      ]
+    },
+    "62": {
+      "js": [
+        {
+          "file": "assets/js/62.441cea40.js",
+          "hash": "ba319a2bbcc09500",
+          "publicPath": "/TMDB/assets/js/62.441cea40.js"
+        }
+      ]
+    },
+    "89": {
+      "js": [
+        {
+          "file": "assets/js/8b992f43.297444cf.js",
+          "hash": "9570f5299c31bf10",
+          "publicPath": "/TMDB/assets/js/8b992f43.297444cf.js"
+        }
+      ]
+    },
+    "106": {
+      "js": [
+        {
+          "file": "assets/js/17896441.c0b605f7.js",
+          "hash": "2b804257a2e4a67e",
+          "publicPath": "/TMDB/assets/js/17896441.c0b605f7.js"
+        }
+      ]
+    },
+    "182": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.935ebbd8.js",
+          "hash": "759b66659ef1836b",
+          "publicPath": "/TMDB/assets/js/1f391b9e.935ebbd8.js"
+        }
+      ]
+    },
+    "191": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.d8c4827a.js",
+          "hash": "fab4571d97c2fdfd",
+          "publicPath": "/TMDB/assets/js/36994c47.d8c4827a.js"
+        }
+      ]
+    },
+    "203": {
+      "js": [
+        {
+          "file": "assets/js/23374ca6.f2773a31.js",
+          "hash": "06a465d94a4721aa",
+          "publicPath": "/TMDB/assets/js/23374ca6.f2773a31.js"
+        }
+      ]
+    },
+    "209": {
+      "js": [
+        {
+          "file": "assets/js/4c678320.d5b39805.js",
+          "hash": "52e8ce602d6a87ea",
+          "publicPath": "/TMDB/assets/js/4c678320.d5b39805.js"
+        }
+      ]
+    },
+    "234": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.860feca9.js",
+          "hash": "94e8c880cf985620",
+          "publicPath": "/TMDB/assets/js/14eb3368.860feca9.js"
+        }
+      ]
+    },
+    "296": {
+      "js": [
+        {
+          "file": "assets/js/7198235a.3d6a0d95.js",
+          "hash": "3e5102bb340135dc",
+          "publicPath": "/TMDB/assets/js/7198235a.3d6a0d95.js"
+        }
+      ]
+    },
+    "366": {
+      "js": [
+        {
+          "file": "assets/js/46986386.4d5fc06c.js",
+          "hash": "d8e1115f7d7b24db",
+          "publicPath": "/TMDB/assets/js/46986386.4d5fc06c.js"
+        }
+      ]
+    },
+    "390": {
+      "js": [
+        {
+          "file": "assets/js/149b5b0e.88a56e8e.js",
+          "hash": "2a8cb66e4384bf88",
+          "publicPath": "/TMDB/assets/js/149b5b0e.88a56e8e.js"
+        }
+      ]
+    },
+    "433": {
+      "js": [
+        {
+          "file": "assets/js/ca068593.5ed6841b.js",
+          "hash": "9a5bb0a771063af1",
+          "publicPath": "/TMDB/assets/js/ca068593.5ed6841b.js"
+        }
+      ]
+    },
+    "455": {
+      "js": [
+        {
+          "file": "assets/js/8c00be16.105a8335.js",
+          "hash": "483b58f63aff7474",
+          "publicPath": "/TMDB/assets/js/8c00be16.105a8335.js"
+        }
+      ]
+    },
+    "496": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.ff322d10.js",
+          "hash": "cecdd02559951b97",
+          "publicPath": "/TMDB/assets/js/a6aa9e1f.ff322d10.js"
+        }
+      ]
+    },
+    "502": {
+      "js": [
+        {
+          "file": "assets/js/1db64337.0e3988a7.js",
+          "hash": "5692c20d10f42a3b",
+          "publicPath": "/TMDB/assets/js/1db64337.0e3988a7.js"
+        }
+      ]
+    },
+    "519": {
+      "js": [
+        {
+          "file": "assets/js/92de5525.ccd4e0bf.js",
+          "hash": "12f1987cf22be44c",
+          "publicPath": "/TMDB/assets/js/92de5525.ccd4e0bf.js"
+        }
+      ]
+    },
+    "541": {
+      "js": [
+        {
+          "file": "assets/js/e8458ed4.8d3dde20.js",
+          "hash": "fe1328e5c0319832",
+          "publicPath": "/TMDB/assets/js/e8458ed4.8d3dde20.js"
+        }
+      ]
+    },
+    "557": {
+      "js": [
+        {
+          "file": "assets/js/d589d3a7.41cfa5c6.js",
+          "hash": "229fa62fadea7373",
+          "publicPath": "/TMDB/assets/js/d589d3a7.41cfa5c6.js"
+        }
+      ]
+    },
+    "575": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.95fc0224.js",
+          "hash": "72967bcd2d126a61",
+          "publicPath": "/TMDB/assets/js/a7bd4aaa.95fc0224.js"
+        }
+      ]
+    },
+    "668": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.819e4981.js",
+          "hash": "21d5822058db80cb",
+          "publicPath": "/TMDB/assets/js/5e95c892.819e4981.js"
+        }
+      ]
+    },
+    "693": {
+      "js": [
+        {
+          "file": "assets/js/693.c405ae98.js",
+          "hash": "83d56b5a66bb86cb",
+          "publicPath": "/TMDB/assets/js/693.c405ae98.js"
+        }
+      ]
+    },
+    "702": {
+      "js": [
+        {
+          "file": "assets/js/4bf16988.f17a1b96.js",
+          "hash": "5e00bf82f5853b44",
+          "publicPath": "/TMDB/assets/js/4bf16988.f17a1b96.js"
+        }
+      ]
+    },
+    "747": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.51a84d09.js",
+          "hash": "fe921a990597766b",
+          "publicPath": "/TMDB/assets/js/aba21aa0.51a84d09.js"
+        }
+      ]
+    },
+    "783": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.04ad9bfc.js",
+          "hash": "595ac8f52b9f567b",
+          "publicPath": "/TMDB/assets/js/runtime~main.04ad9bfc.js"
+        }
+      ]
+    },
+    "785": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.77c132be.js",
+          "hash": "41edd79615fd1c3d",
+          "publicPath": "/TMDB/assets/js/a94703ab.77c132be.js"
+        }
+      ]
+    },
+    "823": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.1889f446.js",
+          "hash": "71671ddc92ee62fb",
+          "publicPath": "/TMDB/assets/js/c4f5d8e4.1889f446.js"
+        }
+      ]
+    },
+    "833": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.dbbf51e6.js",
+          "hash": "8b0c6e34e43b1cb1",
+          "publicPath": "/TMDB/assets/js/814f3328.dbbf51e6.js"
+        }
+      ]
+    },
+    "841": {
+      "js": [
+        {
+          "file": "assets/js/841.c3269078.js",
+          "hash": "244da31f489daef1",
+          "publicPath": "/TMDB/assets/js/841.c3269078.js"
+        }
+      ]
+    },
+    "889": {
+      "js": [
+        {
+          "file": "assets/js/main.a2c46e7a.js",
+          "hash": "d9eb484e5320bfaf",
+          "publicPath": "/TMDB/assets/js/main.a2c46e7a.js"
+        }
+      ]
+    },
+    "900": {
+      "js": [
+        {
+          "file": "assets/js/d7dcdce1.2f2899ad.js",
+          "hash": "d6ef57398e704b47",
+          "publicPath": "/TMDB/assets/js/d7dcdce1.2f2899ad.js"
+        }
+      ]
+    },
+    "908": {
+      "js": [
+        {
+          "file": "assets/js/8b852395.cbf1d009.js",
+          "hash": "6e028fda18bc7634",
+          "publicPath": "/TMDB/assets/js/8b852395.cbf1d009.js"
+        }
+      ]
+    },
+    "932": {
+      "js": [
+        {
+          "file": "assets/js/d245014b.e6a19448.js",
+          "hash": "e3f5d13e0587754e",
+          "publicPath": "/TMDB/assets/js/d245014b.e6a19448.js"
+        }
+      ]
+    },
+    "961": {
+      "js": [
+        {
+          "file": "assets/js/306919cb.4e1bb654.js",
+          "hash": "8895dd5a44aeb914",
+          "publicPath": "/TMDB/assets/js/306919cb.4e1bb654.js"
+        }
+      ]
+    }
+  }
+}

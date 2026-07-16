@@ -1,0 +1,34 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 10rem 40rem 10rem 10rem;
+  text-align: left;
+  background-color: #eceff1;
+   /* A deep, professional 'Enterprise' dark blue */
+}
+
+.heroBanner .hero__title {
+  padding: 10rem 80rem 10rem 10rem;
+  color: #d6dcdb; /* Your signature teal */
+  text-align: left;
+}
+
+.heroBanner .hero__subtitle {
+  padding: 10rem 80rem 10rem 10rem;
+  color: white;
+  text-align: left;
+}
+
+.features {
+  padding: 4rem 0;
+  background-color: #f8f9fa; /* Light grey for section contrast */
+}
+
+.buttons {
+  display: flex;
+  justify-content: left;
+  margin-top: 2rem;
+}

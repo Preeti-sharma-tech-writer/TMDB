@@ -1,0 +1,61 @@
+/* src/css/custom.css */
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+:root {
+  --ifm-color-primary: #0d7c6a;
+  --ifm-color-primary-dark: #0a6b5b;
+  --ifm-color-primary-darker: #0a5f52;
+  --ifm-color-primary-darkest: #084d43;
+  --ifm-color-primary-light: #0f8d79;
+  --ifm-color-primary-lighter: #109a84;
+  --ifm-color-primary-lightest: #14b39a;
+
+  --ifm-background-color: #f7f4ec;
+  --ifm-font-family-base: 'IBM Plex Sans', system-ui, sans-serif;
+  --ifm-heading-font-family: 'IBM Plex Serif', serif;
+  --ifm-font-family-monospace: 'IBM Plex Mono', monospace;
+
+  --ifm-code-font-size: 90%;
+  --docusaurus-highlighted-code-line-bg: rgba(13, 124, 106, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #2dd4bf;
+  --ifm-color-primary-dark: #1fc7b1;
+  --ifm-color-primary-darker: #1cb8a3;
+  --ifm-color-primary-darkest: #179686;
+  --ifm-color-primary-light: #47dbc8;
+  --ifm-color-primary-lighter: #58ddcb;
+  --ifm-color-primary-lightest: #82e4d6;
+
+  --ifm-background-color: #0d1117;
+}
+
+/* Homepage-specific tokens used by src/pages/index.js */
+:root {
+  --hp-surface: #fffdf8;
+  --hp-line: #e2dccd;
+  --hp-ink-2: #5b6673;
+  --hp-accent-soft: #e4f1ed;
+}
+[data-theme='dark'] {
+  --hp-surface: #141b24;
+  --hp-line: #243040;
+  --hp-ink-2: #94a2b2;
+  --hp-accent-soft: #12312c;
+}
+
+.navbar__brand {
+  gap: 10px;
+}
+.navbar__logo {
+  height: 28px;
+  width: 28px;
+}
+.navbar__title {
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: -0.01em;
+}

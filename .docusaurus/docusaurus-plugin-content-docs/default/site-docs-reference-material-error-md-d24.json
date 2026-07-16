@@ -1,0 +1,23 @@
+{
+  "id": "reference-material/error",
+  "title": "Errors",
+  "description": "A list of errors you might come across while using TMDB.",
+  "source": "@site/docs/reference-material/error.md",
+  "sourceDirName": "reference-material",
+  "slug": "/reference-material/error",
+  "permalink": "/TMDB/docs/reference-material/error",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Search Movies",
+    "permalink": "/TMDB/docs/reference/search-movies"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/TMDB/docs/reference-material/glossary"
+  }
+}

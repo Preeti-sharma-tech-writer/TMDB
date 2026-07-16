@@ -1,0 +1,19 @@
+{
+  "id": "project-approach",
+  "title": "TMDB API Documentation — Contents",
+  "description": "Get started",
+  "source": "@site/docs/project-approach.md",
+  "sourceDirName": ".",
+  "slug": "/project-approach",
+  "permalink": "/TMDB/docs/project-approach",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "working-with-image",
+    "permalink": "/TMDB/docs/reference-material/working-with-image"
+  }
+}

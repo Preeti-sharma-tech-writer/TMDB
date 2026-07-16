@@ -1,0 +1,23 @@
+{
+  "id": "reference/discover-movies",
+  "title": "Discover Movies",
+  "description": "Get movies based on filters and sorting options.",
+  "source": "@site/docs/reference/discover-movies.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/discover-movies",
+  "permalink": "/TMDB/docs/reference/discover-movies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/TMDB/docs/reference/configuration"
+  },
+  "next": {
+    "title": "Genre List",
+    "permalink": "/TMDB/docs/reference/genre-list"
+  }
+}

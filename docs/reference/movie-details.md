@@ -57,6 +57,7 @@ url = "https://api.themoviedb.org/3/movie/313"
 payload = {}
 headers = {
     "Authorization": "Bearer
+```
 
 </TabItem>
 </Tabs>
