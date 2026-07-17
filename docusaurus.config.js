@@ -56,8 +56,8 @@ const config = {
         },
         items: [
           { to: '/docs/overview', label: 'Overview', position: 'left' },
-          { to: '/docs/reference/search-movies', label: 'API Reference', position: 'left' },
-          { to: '/docs/reference-material/working-with-image', label: 'Guides', position: 'left' },
+          { to: '/docs/category/api-reference', label: 'API Reference', position: 'left' },
+          { to: '/docs/category/guides', label: 'Guides', position: 'left' },
           {
             href: 'https://github.com/Preeti-sharma-tech-writer/TMDB',
             position: 'right',

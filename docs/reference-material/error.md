@@ -1,7 +1,7 @@
 ---
 title: Errors
 sidebar_label:  Errors
-sidebar_position: 1
+sidebar_position: 2
 
 ---
 
