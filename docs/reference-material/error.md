@@ -1,4 +1,9 @@
+---
+title: Errors
+sidebar_label:  Errors
+sidebar_position: 1
 
+---
 
 # Errors
 

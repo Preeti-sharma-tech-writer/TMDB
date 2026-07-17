@@ -1,3 +1,9 @@
+---
+sidebar_position: 2
+title: Quick Start Guide
+sidebar_label: Quick Start
+---
+
 # Quick Start
 
 Welcome to the TMDB API documentation. By the end of this guide, you will understand the basics needed to make a successful API request.

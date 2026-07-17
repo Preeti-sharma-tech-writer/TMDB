@@ -1,3 +1,10 @@
+---
+title: Glossary
+sidebar_label:  Glossary
+sidebar_position: 3
+description: Definition of all the terminologies used. 
+---
+
 # Glossary
 
 <dl className="glossary">
@@ -14,7 +21,7 @@
   <dd>The internationally recognized format used to identify country using two letters, for example `US`.</dd>
 
   <dt><code> append_to_response</code> </dt>
-  <dd> A query parameter on detail endpoints that adds additional sub-resource data to the same request separated by comma. The values should be subrequest of the parent request endpoint and should be valid individual endpoint. For example, if <code>/movie/{id}/reviews</code> is a valid request, then <code>reviews</code> can be appended in the detail API.</dd>
+  <dd> A query parameter on detail endpoints that adds additional sub-resource data to the same request separated by comma. The values should be subrequest of the parent request endpoint and should be valid individual endpoint. For example, if `/movie/{id}/reviews` is a valid request, then <code>reviews</code> can be appended in the detail API.</dd>
 
   <dt>Enum</dt>
   <dd>Predefined and fixed set of values that are allowed in query parameter. Values outside the enum values are rejected or silently ignored by the request API.</dd>

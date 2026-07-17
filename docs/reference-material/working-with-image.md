@@ -1,3 +1,9 @@
+---
+title: Working with Images
+sidebar_label:  Working with Images
+sidebar_position: 1
+---
+
 ## Building an image URL
 Some of the responses mentioned in the API reference pages return partial paths, such as `poster_path` and `backdrop_path`, and not complete URLs. To complete these URL, three components are needed: 
 1. `base_url` which is explained in the [/configuration](../reference/configuration.md) endpoint. It is suggested to use `secure_base_url` for HTTPS. 
