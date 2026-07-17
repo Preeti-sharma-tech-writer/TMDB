@@ -1,4 +1,12 @@
-# Movies Detail
+---
+title: Movies Detail
+sidebar_label:  Movies Detail
+sidebar_position: 3
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 Get the main highlights of a movie using its ID.
 
 ## Endpoint
@@ -7,7 +15,7 @@ Get the main highlights of a movie using its ID.
 Full URL: https://api.themoviedb.org/3/movie/{movie_id}
 
 ## Authentication
-Requires a Bearer token in the Authorization header. See [Authentication](../03-authentication.md).
+Requires a Bearer token in the Authorization header. See [Authentication](../getting-started.md).
 
 ## Parameters
 | Name | In | Type | Required | Description |

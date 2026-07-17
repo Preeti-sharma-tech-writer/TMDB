@@ -1,4 +1,12 @@
-# Discover Movies
+---
+title: Discover Movies
+sidebar_label: Discover Movies
+sidebar_position: 4
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 
 Get movies based on filters and sorting options. 
 
@@ -8,7 +16,7 @@ Get movies based on filters and sorting options.
 Full URL: `https://api.themoviedb.org/3/discover/movie`
 
 ## Authentication
-Requires a Bearer token in the `Authorization` header. See [Authentication](../03-authentication.md).
+Requires a Bearer token in the `Authorization` header. See [Authentication](../getting-started.md).
 
 ## Parameters
 
@@ -200,7 +208,7 @@ print(response.text)
 |-------|------|-------------|
 | `page`   | integer  | The page number with the corresponding results    |
 | `results[].adult` | boolean |  Whether the movie is classified as adult content |
-| `results[].backdrop_path` |  string |  The partial path of the movie's backdrop image. Retrieve the full image URL by calling the [/configuration](.configuration.md) API |
+| `results[].backdrop_path` |  string |  The partial path of the movie's backdrop image. Retrieve the full image URL by calling the [/configuration](./configuration.md) API |
 | `results[].genre_ids`  |  array |  The id(s) of the genre of the movie |
 |  `results[].id` |  integer |   The id of the movie    | 
 | `results[].title` | string | The title of the movie. The title is changed to the language set in query param   |
@@ -208,7 +216,7 @@ print(response.text)
 | `results[].original_title` | string |    The original title of the movie      |
 | `results[].overview` | string |     The description of the movie. The overview is changed to the language set in query param    |
 | `results[].popularity`  | number  |    TMDB's popularity score for the movie     |
-| `results[].poster_path`  | string  |    The partial path of the movie's poster image. Retrieve the full image URL by calling the [/configuration](.configuration.md) API  |
+| `results[].poster_path`  | string  |    The partial path of the movie's poster image. Retrieve the full image URL by calling the [/configuration](./configuration.md) API  |
 | `results[].release_date`  | string  |    The primary release date of the movie  |
 | `results[].video` | boolean |    Whether the official video(s) of the movie are present     |
 | `results[].vote_average` | number |   Average voting of the movie      |

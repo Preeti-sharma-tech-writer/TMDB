@@ -1,4 +1,12 @@
-# Popular Movies
+---
+title: Popular Movies
+sidebar_label:  Popular Movies
+sidebar_position: 2
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 
 Get the list of movies sorted by popularity.
 
@@ -8,7 +16,7 @@ Get the list of movies sorted by popularity.
 Full URL: `https://api.themoviedb.org/3/movie/popular`
 
 ## Authentication
-Requires a Bearer token in the `Authorization` header. See [Authentication](../03-authentication.md).
+Requires a Bearer token in the `Authorization` header. See [Authentication](../getting-started.md).
 
 ## Parameters
 | Name | In | Type | Required | Description |

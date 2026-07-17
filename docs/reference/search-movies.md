@@ -1,12 +1,22 @@
-# Search Movies
-The keyword can be a movie title or original title.
+---
+title: Search Movies
+sidebar_label:  Search Movies
+sidebar_position: 1
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+
+
+Get movie using their original and alternative titles.
 
 ## Endpoint
 `GET /search/movie`
 Full URL: https://api.themoviedb.org/3/search/movie
 
 ## Authentication
-Requires a Bearer token in the Authorization header. See [Authentication](../03-authentication.md).
+Requires a Bearer token in the Authorization header. See [Authentication](../getting-started.md).
 
 ## Parameters
 | Name | In | Type | Required | Description |

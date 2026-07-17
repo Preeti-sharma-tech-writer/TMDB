@@ -1,4 +1,11 @@
-# Configuration
+---
+title: Configuration
+sidebar_label: Configuration
+sidebar_position: 6
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 Get key details that are required to integrate TMDB APIs.
 
@@ -8,7 +15,7 @@ Get key details that are required to integrate TMDB APIs.
 Full URL: `https://api.themoviedb.org/3/configuration`
 
 ## Authentication
-Requires a Bearer token in the `Authorization` header. See [Authentication](../03-authentication.md).
+Requires a Bearer token in the `Authorization` header. See [Authentication](../getting-started.md).
 
 ## Example request
 

@@ -1,15 +1,23 @@
-# Genre List
+---
+title: Genre List
+sidebar_label:  List of Genres
+sidebar_position: 5
+---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 
 Get the list of all the movies or tv shows genre and their code. 
 
 ## Endpoint
+
 `GET /genre/movie/list`
 `GET /genre/tv/list`
 
 Full URL: `https://api.themoviedb.org/3/genre/movie/list` or `https://api.themoviedb.org/3/genre/tv/list`
 
 ## Authentication
-Requires a Bearer token in the `Authorization` header. See [Authentication](../03-authentication.md).
+Requires a Bearer token in the `Authorization` header. See [Authentication](../getting-started.md).
 
 ## Parameters
 | Name | In | Type | Required | Description |
@@ -18,8 +26,6 @@ Requires a Bearer token in the `Authorization` header. See [Authentication](../0
 
 ## Example request
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 <Tabs>
 <TabItem value="curl" label="cURL">
