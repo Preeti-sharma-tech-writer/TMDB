@@ -1,5 +1,7 @@
 # TMDB API — Documentation (Portfolio Project)
 
+🔗 **[View the live documentation](https://preeti-sharma-tech-writer.github.io/TMDB/)**
+
 This is independent reference documentation for the TMDB API, created as a technical-writing portfolio piece by Preeti Sharma.
 
 Every endpoint is tested directly in Postman, and every example response or the corresponding error code is real captured result. Anything that is not testable, or that doesn't return the expected response is excluded from the documentation. Hence, some deviation from the official [API documentation](https://developer.themoviedb.org/reference/getting-started) is expected and intentional.
